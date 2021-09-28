@@ -1,0 +1,1 @@
+# Simple-License-Plate-recognition-using-Tesseract-and-OpenCV
